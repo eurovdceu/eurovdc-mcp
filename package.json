@@ -1,0 +1,39 @@
+{
+  "name": "eurovdc-mcp-server",
+  "version": "1.4.0",
+  "description": "EuroVDC MCP server for Claude Desktop / Cursor — domain search, products, server recommendations, agent checkout",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "eurovdc-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eurovdc/eurovdc-mcp.git"
+  },
+  "homepage": "https://www.eurovdc.eu/en/for-agents",
+  "bugs": {
+    "url": "https://github.com/eurovdc/eurovdc-mcp/issues"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "eurovdc",
+    "hosting",
+    "domains",
+    "claude",
+    "cursor"
+  ],
+  "author": "EuroVDC",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "axios": "^1.11.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
