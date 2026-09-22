@@ -29,7 +29,7 @@ No API key required for public tools. Optional partner key (`Authorization: Bear
 ## Stdio install (Claude Desktop / local Cursor)
 
 ```bash
-git clone https://github.com/eurovdc/eurovdc-mcp.git
+git clone https://github.com/eurovdceu/eurovdc-mcp.git
 cd eurovdc-mcp
 npm install
 ```

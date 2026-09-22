@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eurovdc/eurovdc-mcp.git"
+    "url": "git+https://github.com/eurovdceu/eurovdc-mcp.git"
   },
   "homepage": "https://www.eurovdc.eu/en/for-agents",
   "bugs": {
-    "url": "https://github.com/eurovdc/eurovdc-mcp/issues"
+    "url": "https://github.com/eurovdceu/eurovdc-mcp/issues"
   },
   "keywords": [
     "mcp",
