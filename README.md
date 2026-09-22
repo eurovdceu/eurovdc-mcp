@@ -5,6 +5,7 @@ Official [Model Context Protocol](https://modelcontextprotocol.io) server for [E
 - **Remote HTTP MCP:** `https://www.eurovdc.eu/mcp`
 - **Docs:** [for-agents](https://www.eurovdc.eu/en/for-agents) · [agents.md](https://www.eurovdc.eu/agents.md)
 - **Smithery:** [vakar/eurovdc](https://smithery.ai/servers/vakar/eurovdc)
+- [![smithery badge](https://smithery.ai/badge/vakar/eurovdc)](https://smithery.ai/servers/vakar/eurovdc)
 - **Privacy:** [privacy policy](https://www.eurovdc.eu/en/contracts/privacy-policy)
 
 ## Quick connect (remote)
